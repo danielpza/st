@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=st
+Name=st
+Type=Application
+Icon=utilities-terminal
